@@ -14,7 +14,14 @@ Thank you for reviewing my prototype! Please follow the instructions below to en
 
 ## Attached Video
 
-![Prototype Video](#)  
+
+https://github.com/user-attachments/assets/17dc911d-90ab-4887-ba56-f57389b4bbf3
+
+
+
+
+
+
 
 Thank you for your time and consideration!
 
