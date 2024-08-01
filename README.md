@@ -1,4 +1,4 @@
-# Prototype Submission for Africa's Talking Women in Technology Kampala Challenge
+# UI/UX design Submission for Africa's Talking Women in Technology Kampala Challenge
 
 Thank you for reviewing my prototype! Please follow the instructions below to ensure the best experience:
 
