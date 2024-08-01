@@ -12,6 +12,9 @@ Thank you for reviewing my prototype! Please follow the instructions below to en
 
 [View Prototype](https://www.figma.com/proto/oGCMlbk3iLQ6qpQby5MDA5/AT-Landing-Page-By-Aseru-Kevin-Ziyada?page-id=0%3A1&node-id=28-100&viewport=-182%2C5%2C0.11&t=KtE3KIJRgBI5X6jC-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=28%3A100)
 
+## Project Link
+[View Project](https://www.figma.com/design/oGCMlbk3iLQ6qpQby5MDA5/AT-Landing-Page-By-Aseru-Kevin-Ziyada?node-id=0-1&t=jrwYgZTDOXEkcf2b-1)
+
 ## Attached Video
 
 
