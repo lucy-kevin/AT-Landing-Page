@@ -16,11 +16,9 @@ Thank you for reviewing my prototype! Please follow the instructions below to en
 [View Project](https://www.figma.com/design/oGCMlbk3iLQ6qpQby5MDA5/AT-Landing-Page-By-Aseru-Kevin-Ziyada?node-id=0-1&t=jrwYgZTDOXEkcf2b-1)
 
 ## Attached Video
-
-
 https://github.com/user-attachments/assets/17dc911d-90ab-4887-ba56-f57389b4bbf3
 
-
+## Screenshots
 ![Screenshot 2024-08-01 183154](https://github.com/user-attachments/assets/a8297560-0828-4492-a564-8e60d0af29aa)
 ![Screenshot 2024-08-01 183301](https://github.com/user-attachments/assets/78f0c98d-cb09-4f72-8705-f533bd6e0044)
 ![Screenshot 2024-08-01 183329](https://github.com/user-attachments/assets/fe2ef716-f138-4210-b502-d4ccf0ea3775)
@@ -36,18 +34,6 @@ https://github.com/user-attachments/assets/17dc911d-90ab-4887-ba56-f57389b4bbf3
 ![Screenshot 2024-08-01 183617](https://github.com/user-attachments/assets/9611e550-d808-4734-92fd-1d73634aee71)
 
 
-
-
-
-
-
-
-
-
-
-
-
-##Screenshots
 
 Thank you for your time and consideration!
 
